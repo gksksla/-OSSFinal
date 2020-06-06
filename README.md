@@ -1,4 +1,4 @@
-#What does this project do?
+>What does this project do?
 >	>This project is a worm game that eats red apples. When you eat an apple, the worm gets longer and longer. The condition that the game ends is when the worm touches its body and tires to eat itself.
 
 >Why is this project useful? How do I get started?
