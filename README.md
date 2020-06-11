@@ -7,3 +7,5 @@
 >Where can I get more help, if I need it?
 >	>You can get help  by Google, or email me by sending message to "21900398@handong.edu"
 
+#The Video link: https://www.youtube.com/watch?v=IsXNk657CAI
+
