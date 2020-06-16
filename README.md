@@ -17,11 +17,12 @@ What is advanced code from me?
 : It's more fun because apples come out two at a time.
 : Snake need to eat two apples all.
 
-> **Note:**
+> **Note: What is advanced part from me?**
 
-> - Full access to **Google Drive** or **Dropbox** is required to be able to import any document in StackEdit. Permission restrictions can be configured in the settings.
-> - Imported documents are downloaded in your browser and are not transmitted to a server.
-> - If you experience problems saving your documents on Google Drive, check and optionally disable browser extensions, such as Disconnect.
+> - Snake has gradation so the brighter part is a head.
+> - Show how many apples user ate at the top of the screen.
+> - It's more fun because apples come out two at a time.
+> - Snake need to eat two apples all.
 
 #The Video link: https://youtu.be/IsXNk657CAI
 
