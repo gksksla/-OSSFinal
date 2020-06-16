@@ -17,7 +17,12 @@ What is advanced code from me?
 : It's more fun because apples come out two at a time.
 : Snake need to eat two apples all.
 
+**Markdown Extra** has a special syntax for definition lists too:
 
+Term 1
+Term 2
+:   Definition A
+:   Definition B
 
 #The Video link: https://youtu.be/IsXNk657CAI
 
