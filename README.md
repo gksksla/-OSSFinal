@@ -11,11 +11,11 @@
 >Where do I get the idea?
 >>https://python.bakyeono.net/chapter-12-1.html , I started my code from here.
 
->What is advanced code from me?
->> (1) Snake has gradation so the brighter part is a head
->> (2) Show how many apples user ate at the top of the screen
->> (3) It's more fun because apples come out two at a time.
->> (4) Snake need to eat two apples all.
+What is advanced code from me?
+> (1) Snake has gradation so the brighter part is a head
+> (2) Show how many apples user ate at the top of the screen
+> (3) It's more fun because apples come out two at a time.
+> (4) Snake need to eat two apples all.
 
 
 
